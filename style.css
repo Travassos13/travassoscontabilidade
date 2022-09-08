@@ -1,0 +1,238 @@
+*{
+ margin: 0 ;  
+ padding: 0 ;
+}
+div .menu {
+     color: white;
+     padding: 30px;
+
+}
+.nav-item a{
+    color: white;
+    margin-top: 15px;
+}
+.navbar-brand img{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+section .sobre{
+    height: 400px;
+    width: 50%;
+    float: left;
+    display: block;
+    float: left;
+    padding: 15px; 
+    text-align: center;
+    margin-top: 20px;
+
+    
+}
+section .visao{
+    height: 200px;
+    width: 50%;
+    float: left;
+    display: block;
+    padding: 15px; 
+    text-align: center; 
+    margin-top: 20px;
+
+ 
+}
+section .missao{
+    text-align: center;
+    height: 200px;
+    width: 50%;
+    float: left;
+    display: block;
+    padding: 15px; 
+    text-align: center; 
+    margin-top: 20px;
+  
+}
+
+section .valores{
+    text-align: left;
+    width: 100%;
+    float: left;
+    display: block;
+    padding: 5px; 
+    text-align: center; 
+    
+}
+section .sobre p{
+    margin: 30px;
+    padding: 62px;
+       
+}
+section .sobre h2{
+    margin: 20px;
+    padding: 0px;
+       
+}
+section .visao h2{
+    margin: 20px;
+    
+       
+}
+section .missao h2{
+    margin: 20px;
+   
+       
+}
+section .valores h2{
+    margin-top: 50px;
+    margin: 30px;
+     
+
+       
+}
+section .visao p{
+    margin: 20px;
+  
+       
+}
+section .missao p{
+    margin: 17px;
+    
+       
+}
+section .valores p{
+    margin: 30px;
+    padding: 5px;
+   
+       
+}
+section .servico{
+    width: 100%;
+    text-align: center;
+    float: left;
+    
+}
+section .servicos{
+    width: 100%;
+    text-align: center;
+    float: left;
+    padding: 30px;
+    display: block;
+}
+section .empresas{
+    width: 50%;
+    text-align: center;
+    float: left;
+    padding: 30px;
+    display: block;
+}
+section .trabalhista{
+    width: 50%;
+    text-align: center;
+    float: left;
+    padding: 30px;
+    display: block;
+}
+section .fiscal{
+    width: 50%;
+    text-align: center;
+    float: left;
+    padding: 30px;
+    display: block;
+}
+section .legal{
+    width: 50%;
+    text-align: center;
+    float: left;
+    padding: 30px;
+    display: block;
+    margin-top: -230px;
+}
+section button{
+    margin-bottom: 25px;
+}
+.enviar button{
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+.contatoPrincipal{
+    width: 100%;
+}
+.contato {
+    width: 50%;
+    float: left;
+}
+.mensagem{
+    width: 50%;
+    float: left;
+}
+.mapa{
+    margin-left: 10px;
+}
+.contato{
+    margin-top: 20px;
+}
+.row{
+    width: 100%;
+    float: left;
+    display: block;
+}
+.imagemGrafico{
+    width: 50%;
+    float: left;
+    display: block;
+    padding: 15px; 
+    text-align: center; 
+}
+.graficotxt{
+    width: 50%;
+    float: left;
+    display: block;
+    padding: 15px; 
+    
+}
+.graficotxt h1{
+    margin-top: 25px;
+    font-size: 90px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center; 
+}
+.graficotxt h3{
+    text-align: left;
+    margin: 80px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.graficotxt p{
+    text-align: left;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.graficotxt button{
+    border-radius: 50px;
+    margin: 15px;
+}
+.txtimg{
+    width: 50%;
+    float: left;
+    display: block;
+    padding: 15px; 
+    text-align: center; 
+    margin-top: 20px;
+}
+.txt1{
+    width: 50%;
+    float: left;
+    display: block;
+    padding: 15px; 
+    margin-top: 20px;
+    
+}
+.txt1 h1{
+    margin-top: 25px;
+    font-size: 70px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center; 
+}
+.txt1 p{
+    text-align: left;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin: 80px;
+    font-size: 20px;
+}
